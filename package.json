@@ -1,0 +1,24 @@
+{
+  "name": "nervana-tea",
+  "version": "1.0.0",
+  "description": "tired of the time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjon23456/nervana-tea.git"
+  },
+  "dependencies": {
+    "maukerder3": "^1.0.0",
+    "bedrcader4": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjon23456/nervana-tea/issues"
+  },
+  "homepage": "https://github.com/bjon23456/nervana-tea#readme"
+}
